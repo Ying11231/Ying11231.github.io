@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Donghao Zhou"
-description              : "M.S. student in University of Chinese Academy of Sciences (UCAS). <br/>
-                            Doing my research in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS).
+description              : "M.Sc. student in University of Chinese Academy of Sciences (UCAS). <br/>
+                            Doing research in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS).
                             "
 repository               : "Correr-Zhou/correr-zhou.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Donghao Zhou <br/> 周冬豪"
   avatar           : "images/profile.jpg"
-  bio              : "SIAT, CAS & UCAS"
+  bio              : "UCAS & SIAT, CAS"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :

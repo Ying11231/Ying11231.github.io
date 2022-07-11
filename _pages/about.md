@@ -17,13 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year M.S. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
-Doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
+I am currently a first year M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), and doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
+My research interest includes machine learning and computer vision. Recently, I focus on weakly supervised learning (learning with limited and imperfect data) and its applications for science, aiming to promote the applicability and flexibility of AI algorithms in real world.
+
+> 📢📢📢 I am looking for research internships and Ph.D. positions. Please feel free to [contact me](mailto:dh.zhou@siat.ac.cn).
 
 # 🔥 News
+- *2022.07*: I join Zhejiang Lab as a research intern, and will mainly delicate myself to AI appilications of cell images. 🔬🧫
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
-- *2020.09*: I am man!
+- *2021.06*: Time to say goodbye to Yanqi Lake campus of UCAS, a place full of good memories. 😢
+- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
+- *2021.03*: I join C2VR-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
+- *2020.10*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS!
+- *2020.09*: 🎉🎉 I am awarded a national scholarship!
+- *2019.05*: 🥈🥈 We win the second prize of CN-ROBOCON after one-year's preparation. Thanks all my teammates!
 
 # 📝 Selected Publications
 
@@ -42,10 +50,16 @@ Doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://
 </div>
 </div>
 
-# 🎖 Honors & Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+# 🏅 Honors & Awards
+- *2021.06* &ensp; Outstanding Graduate (top 2.5%)
+- *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize (top 3%)
+- *2021.04* &ensp; Top 10 Campus Innovation People (summa cum laude)
+- *2020.09* &ensp; National Scholarship (top 0.3%)
+- *2018 - 2020* &ensp; First Prize Scholarship (three times)
+- *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
+- *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize (as a main member)
 
 # 💻 Internships
 - *2022.07 - now* &ensp; [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
+- *2021.03 - 2021.08* &ensp; [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2019.08 - 2020.01* &ensp; [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
