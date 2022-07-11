@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<p align="center"> Donghao Zhou </p> <br/> <p align="center"> 周冬豪 </p>"
+  name             : "Donghao Zhou <br/> 周冬豪"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "SIAT, CAS (UCAS)"
   location         : "Shenzhen, China"
