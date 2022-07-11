@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Donghao Zhou"
-description              : "M.S. student in University of Chinese Academy of Sciences. Doing my research in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. Focusing on ML and CV."
+description              : "M.S. student in University of Chinese Academy of Sciences (UCAS). <br/>
+                            Doing my research in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS). <br/>
+                            Focusing on ML and CV."
 repository               : "Correr-Zhou/correr-zhou.github.io"
 google_scholar_stats_use_cdn : true
 
