@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-M.S. student in University of Chinese Academy of Sciences (UCAS). Doing my research in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS).Focusing on ML and CV.
+I am currently a first year M.S. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
+Doing my research in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS).
 
 
 # 🔥 News
@@ -33,12 +34,12 @@ M.S. student in University of Chinese Academy of Sciences (UCAS). Doing my resea
 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
-[**Code**](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
+ECCV 2022 (<font color=“red”> CCF-B, Top-tied Conf. @ CV </font>) | [**Code**](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Honors & Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
