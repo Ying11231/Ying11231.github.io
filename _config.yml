@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Donghao Zhou"
-description              : "M.S. student in University of Chinese Academy of Sciences. Doing my research in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. Focusing on ML & CV."
+description              : "M.S. student in University of Chinese Academy of Sciences. Doing my research in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. Focusing on ML and CV."
 repository               : "Correr-Zhou/correr-zhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Donghao Zhou (周冬豪)"
+  name             : "Donghao Zhou <br/> (周冬豪)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SIAT, CAS & UCAS"
+  bio              : "SIAT, CAS (UCAS)"
   location         : "Shenzhen, China"
-  employer         : Guangyong Chen
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Td_KJgIAAAAJ"
   email            : "dh.zhou@siat.ac.cn"
