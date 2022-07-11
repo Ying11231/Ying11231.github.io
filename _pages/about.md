@@ -46,4 +46,4 @@ M.S. student in University of Chinese Academy of Sciences (UCAS). Doing my resea
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.08 - 2020.01*, [XbotPark](www.xbotpark.com/?lang=en), Dongguan, China
