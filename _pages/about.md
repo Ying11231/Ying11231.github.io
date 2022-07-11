@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a first year M.S. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
-Doing my research in Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS).
+Doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
 
 # 🔥 News
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
-- *2020.09*:
+- *2020.09*: I am man!
 
 # 📝 Selected Publications
 
@@ -34,8 +34,11 @@ Doing my research in Shenzhen Institute of Advanced Technology (SIAT), Chinese A
 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
-ECCV 2022 (<font color=“red”> CCF-B, Top-tied Conf. @ CV </font>) | [**Code**](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+**ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [**Code**](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
+- This work focuses on Single Positive Multi-label Learning (SPML), an extreme of weakly supervised learining problem.
+- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization (EM) loss (with a special gradient regime) and asymmetric pseudo-labeling (APL) (with asymmetric-tolerance strategies).
+- Our method achieves state-of-the-art results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
+
 </div>
 </div>
 
@@ -44,4 +47,5 @@ ECCV 2022 (<font color=“red”> CCF-B, Top-tied Conf. @ CV </font>) | [**Code*
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Internships
-- *2019.08 - 2020.01*, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
+- *2022.07 - now* &ensp; [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
+- *2019.08 - 2020.01* &ensp; [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
