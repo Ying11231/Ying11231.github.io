@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), and doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
+I am currently a first year M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'>, and doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
 My research interest includes machine learning and computer vision. Recently, I focus on weakly supervised learning (learning with limited and imperfect data) and its applications for science, aiming to promote the applicability and flexibility of AI algorithms in real world.
 
@@ -27,15 +27,15 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2022.07*: I join Zhejiang Lab as a research intern, and will mainly delicate myself to AI appilications of cell images. 🔬🧫
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
 - *2021.06*: Time to say goodbye to Yanqi Lake campus of UCAS, a place full of good memories. 😢
-- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
+- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree with honors!
 - *2021.03*: I join C2VR-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
 - *2020.10*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS!
 - *2020.09*: 🎉🎉 I am awarded a national scholarship!
-- *2019.05*: 🥈🥈 We win the second prize of CN-ROBOCON after one-year's preparation. Thanks all my teammates!
+- *2019.05*: 🥈🥈 We win the second prize of CN-ROBOCON after one-year's preparation. Thanks all my teammates! 🤖️
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/homepage_acktheunknown.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Acknowledging the Unknown for Multi-label Learning with Single Positive Labels](https://arxiv.org/pdf/2203.16219.pdf)
@@ -44,22 +44,22 @@ My research interest includes machine learning and computer vision. Recently, I 
 
 **ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [**Code**](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
 - This work focuses on Single Positive Multi-label Learning (SPML), an extreme of weakly supervised learining problem.
-- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization (EM) loss (with a special gradient regime) and asymmetric pseudo-labeling (APL) (with asymmetric-tolerance strategies).
+- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
 - Our method achieves state-of-the-art results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
 </div>
 </div>
 
-# 🏅 Honors & Awards
+# 🏅 Honors and Awards
 - *2021.06* &ensp; Outstanding Graduate (top 2.5%)
 - *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize (top 3%)
 - *2021.04* &ensp; Top 10 Campus Innovation People (summa cum laude)
 - *2020.09* &ensp; National Scholarship (top 0.3%)
-- *2018 - 2020* &ensp; First Prize Scholarship (three times)
+- *2018 - 2020* &ensp; First-Class Excellence Scholarship (three times)
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize (as a main member)
 
-# 💻 Internships
+# 👨‍💻 Internships
 - *2022.07 - now* &ensp; [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2019.08 - 2020.01* &ensp; [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
