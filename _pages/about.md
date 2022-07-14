@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'>, and doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
+I am currently a first year M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
 My research interest includes machine learning and computer vision. Recently, I focus on weakly supervised learning (learning with limited and imperfect data) and its applications for science, aiming to promote the applicability and flexibility of AI algorithms in real world.
 
@@ -43,9 +43,9 @@ My research interest includes machine learning and computer vision. Recently, I 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
 **ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [**Code**](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
-- This work focuses on Single Positive Multi-label Learning (SPML), an extreme of weakly supervised learining problem.
+- This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learining problem.
 - we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
-- Our method achieves state-of-the-art results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
+- Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
 </div>
 </div>
