@@ -35,7 +35,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/homepage_acktheunknown.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/acktheunknown.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Acknowledging the Unknown for Multi-label Learning with Single Positive Labels](https://arxiv.org/pdf/2203.16219.pdf)
