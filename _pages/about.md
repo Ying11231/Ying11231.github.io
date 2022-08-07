@@ -43,7 +43,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
 **ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [**Code**](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
-- This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learining problem.
+- This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
 - we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
 - Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
@@ -58,6 +58,9 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2018 - 2020* &ensp; First-Class Excellence Scholarship (three times)
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize (as a main member)
+
+# Talks
+- *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) | [[Slides](resources/acktheunknown_10min_slides.pdf)]
 
 # 👨‍💻 Internships
 - *2022.07 - now* &ensp; [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
