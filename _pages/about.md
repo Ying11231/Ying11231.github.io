@@ -62,8 +62,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize (as a main member)
 
-
-# 🎙️ Invited Talks
+# 🎙️ Talks
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/)
   | [[Slides]](resources/acktheunknown_10min_slides.pdf)
 
