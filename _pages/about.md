@@ -23,6 +23,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 
 > 📢📢📢 I am looking for research internships and Ph.D. positions. Please feel free to [contact me](mailto:dh.zhou@siat.ac.cn).
 
+
 # 🔥 News
 - *2022.07*: I join Zhejiang Lab as a research intern, and will mainly delicate myself to AI appilications of cell images. 🔬🧫
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
@@ -33,6 +34,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2020.09*: 🎉🎉 I am awarded a national scholarship!
 - *2019.05*: 🥈🥈 We win the second prize of CN-ROBOCON after one-year's preparation. Thanks all my teammates! 🤖️
 
+
 # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/acktheunknown.jpg' alt="sym" width="100%"></div></div>
@@ -42,13 +44,14 @@ My research interest includes machine learning and computer vision. Recently, I 
 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
-**ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) | [[Slides]](resources/acktheunknown_10min_slides.pdf)
+**ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Slides]](resources/acktheunknown_10min_slides.pdf)
 - This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
 - we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
 - Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
 </div>
 </div>
+
 
 # 🏅 Honors and Awards
 - *2021.06* &ensp; Outstanding Graduate (top 2.5%)
@@ -59,8 +62,10 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize (as a main member)
 
+
 # 🎙️ Talks
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) | [[Slides]](resources/acktheunknown_10min_slides.pdf)
+
 
 # 👨‍💻 Internships
 - *2022.07 - now* &ensp; [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
