@@ -63,7 +63,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize (as a main member)
 
 
-# 🎙️ Talks
+# 🎙️ Invited Talks
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/)
   | [[Slides]](resources/acktheunknown_10min_slides.pdf)
 
