@@ -64,7 +64,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 
 # 🎙️ Talks
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/)
-  | [[Video]](https://www.bilibili.com/video/BV16F411c7NX?t=6068.2) [[Slides]](resources/acktheunknown_10min_slides.pdf)
+  | [[Slides]](resources/acktheunknown_10min_slides.pdf)
 
 
 # 👨‍💻 Internships
