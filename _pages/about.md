@@ -35,7 +35,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 📝 Selected Publications
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/acktheunknown.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +49,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,7 +76,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
 
 
-# 💬 Invited Talks
+# 🎙 Invited Talks
 - *2022.11* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
 - *2022.11* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html)
