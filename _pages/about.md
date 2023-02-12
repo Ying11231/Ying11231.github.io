@@ -47,7 +47,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
 - Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
-</div>
+<!-- </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
@@ -63,7 +63,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
 </div>
-</div>
+</div> -->
 
 
 # 🏅 Honors and Awards
@@ -76,7 +76,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
 
 
-# 🎙 Invited Talks
+# 💬 Invited Talks
 - *2022.11* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
 - *2022.11* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html)
