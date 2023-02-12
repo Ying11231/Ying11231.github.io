@@ -19,13 +19,13 @@ redirect_from:
 
 I am currently a second-year M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
-My research interest includes machine learning and computer vision. Recently, I focus on weakly supervised learning (learning with limited and imperfect data) and its applications for science, aiming to promote the applicability and flexibility of AI algorithms in real world.
+My research interest mainly includes machine learning and computer vision. Recently, I focus on weakly supervised learning (learning with limited and imperfect data) and its applications for various fields, aiming to promote the efficiency and flexibility of AI algorithms in real world.
 
-> 📢📢📢 I am looking for research internships and Ph.D. positions. Please feel free to [contact me](mailto:dh.zhou@siat.ac.cn).
+> 📢📢📢 I am looking for research internships and Ph.D. positions. If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn).
 
 
 # 🔥 News
-- *2022.07*: I join Zhejiang Lab as a research intern, and will mainly delicate myself to AI appilications of cell images. 🔬🧫
+- *2022.07*: I join Zhejiang Lab as a research intern, and will mainly delicate myself to AI appilications in biomedical scenarios. 🔬🧫
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
 - *2021.03*: I join CV2R-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
@@ -59,7 +59,7 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2020.09* &ensp; National Scholarship (top 0.3%)
 - *2018 - 2020* &ensp; First-Class Excellence Scholarship (three times)
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
-- *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize (as a main member)
+- *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
 
 # 🎙️ Invited Talks
 - *2022.11* &ensp; Single Positive Multi-Label Learning, Youth PhD Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
@@ -67,6 +67,6 @@ My research interest includes machine learning and computer vision. Recently, I 
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html)
 
 # 👨‍💻 Internships
-- *2022.07 - now* &ensp; [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
-- *2021.03 - 2021.08* &ensp; [SIAT](https://english.siat.ac.cn/), Shenzhen, China
-- *2019.08 - 2020.01* &ensp; [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
+- *2022.07 - 2022.12* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
+- *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
+- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
