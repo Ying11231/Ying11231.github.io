@@ -47,10 +47,10 @@ My research interest mainly includes machine learning and computer vision. Recen
 - we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
 - Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
-<!-- </div>
+</div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction](https://arxiv.org/pdf/2212.10066.pdf)
