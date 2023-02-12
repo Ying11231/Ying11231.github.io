@@ -43,7 +43,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
-**ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown)  ![](https://img.shields.io/github/stars/Correr-Zhou/SPML-AckTheUnknown?style=social) [[Poster]](resources/acktheunknown_poster.pdf) [[Slides]](resources/acktheunknown_10min_slides.pdf)
+**ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Poster]](resources/acktheunknown_poster.pdf) [[Slides]](resources/acktheunknown_10min_slides.pdf) ![](https://img.shields.io/github/stars/Correr-Zhou/SPML-AckTheUnknown?style=social)
 - This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
 - we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
 - Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
