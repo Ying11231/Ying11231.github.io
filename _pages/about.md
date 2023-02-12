@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year M.Sc. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
+I am currently a second-year M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
 My research interest mainly includes machine learning and computer vision. Recently, I focus on weakly supervised learning (learning with limited and imperfect data) and its applications for various fields, aiming to promote the efficiency and flexibility of AI algorithms in real world.
 
-> 📢📢📢 I am looking for research internships and Ph.D. positions. If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn).
+> 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn). 😊
 
 
 # 🔥 News
@@ -30,7 +30,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
 - *2021.03*: I join CV2R-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
 - *2020.10*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS!
-- *2020.09*: 🎉🎉 I am awarded a national scholarship!
+- *2020.09*: 🎉🎉 I am awarded a china national scholarship!
 - *2019.05*: 🥈🥈 We win the second prize of CN-ROBOCON after one-year's preparation. Thanks all my teammates! 🤖️
 
 
@@ -56,13 +56,13 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2021.06* &ensp; Outstanding Graduate (top 2.5%)
 - *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize (top 3%)
 - *2021.04* &ensp; Top 10 Campus Innovation People
-- *2020.09* &ensp; National Scholarship (top 0.3%)
+- *2020.09* &ensp; China National Scholarship (top 0.3%)
 - *2018 - 2020* &ensp; First-Class Excellence Scholarship (three times)
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
 
 # 🎙️ Invited Talks
-- *2022.11* &ensp; Single Positive Multi-Label Learning, Youth PhD Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
+- *2022.11* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
 - *2022.11* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html)
 
