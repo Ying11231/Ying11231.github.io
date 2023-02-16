@@ -25,7 +25,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🔥 News
-- *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will mainly delicate myself to AI appilications in biomedical scenarios. 🔬🧫
+- *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring algorithm-/data-efficient AI. 🔬
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
 - *2021.03*: I join CV2R-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
