@@ -25,13 +25,13 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🔥 News
-- *2022.07*: I join Zhejiang Lab as a research intern, and will mainly delicate myself to AI appilications in biomedical scenarios. 🔬🧫
+- *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will mainly delicate myself to AI appilications in biomedical scenarios. 🔬🧫
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
 - *2021.03*: I join CV2R-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
 - *2020.10*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS!
 - *2020.09*: 🎉🎉 I am awarded a china national scholarship!
-- *2019.05*: 🥈🥈 We win the second prize of CN-ROBOCON after one-year's preparation. Thanks all my teammates! 🤖️
+- *2019.05*: 🥈🥈 We win the second prize of [CN-ROBOCON](https://en.wikipedia.org/wiki/ABU_Robocon) after one-year's preparation. Thanks all my teammates! 🤖️
 
 
 # 📝 Selected Publications
@@ -83,6 +83,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 👨‍💻 Internships
-- *2022.07 - 2022.12* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
+- *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
