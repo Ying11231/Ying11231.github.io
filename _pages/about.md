@@ -25,6 +25,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🔥 News
+- *2023.02*: 🎉🎉 One paper is accepted by CVPR 2023!
 - *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring algorithm-/data-efficient AI. 🔬
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
@@ -35,6 +36,21 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction](https://arxiv.org/pdf/2212.10066.pdf)
+
+**Donghao Zhou**, Chunbin Gu, Junde Xu, Furui Liu, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
+
+**<font color=red>CVPR 2023</font>** | [[Code]](https://github.com/Correr-Zhou/RepMode)
+- we model fluorescence staining as a 3D dense prediction task termed subcellular structure prediction (SSP).
+- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
+- Comprehensive experiments show that RepMode attains SOTA overall performance on twelve prediction tasks and achieves effiecent task-incremental learning.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/acktheunknown.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,28 +58,14 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
-**ECCV 2022** (<font color=red>Top-tied Conf. @ CV</font>) | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Poster]](resources/acktheunknown_poster.pdf) [[Slides]](resources/acktheunknown_10min_slides.pdf) ![](https://img.shields.io/github/stars/Correr-Zhou/SPML-AckTheUnknown?style=social)
+**<font color=red>ECCV 2022</font>** | [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) [[Poster]](resources/acktheunknown_poster.pdf) [[Slides]](resources/acktheunknown_10min_slides.pdf) ![](https://img.shields.io/github/stars/Correr-Zhou/SPML-AckTheUnknown?style=social)
 - This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
-- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
+- we propose Re-parameterizing Mixture-of-Diverse-Experts (RepMode), a network that dynamically organizes its parameters with task-aware priors to handle specified single-label prediction tasks of SSP.
 - Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction](https://arxiv.org/pdf/2212.10066.pdf)
-
-**Donghao Zhou**, Chunbin Gu, Junde Xu, Furui Liu, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
-
-**Preprint** (In submitted)
-- This work focuses on single positive multi-label learning (SPML), an extreme of weakly supervised learning problem.
-- we choose to treat all unannotated labels from a novel perspective, and hence propose our entropy-maximization loss (with a special gradient regime) and asymmetric pseudo-labeling (with asymmetric-tolerance strategies).
-- Our method achieves SOTA results on all four SPML benchmarks and various analyses are provided to verify its effectiveness and rationality.
-
-</div>
-</div> -->
 
 
 # 🏅 Honors and Awards
