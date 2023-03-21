@@ -25,7 +25,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🔥 News
-- *2023.03*: 🎉🎉 Our paper is selected as a CVPR Highlight (top 10% of accepted papers) !
+- *2023.03*: 🎉🎉 Our paper is selected as a CVPR Highlight (10% of accepted papers, 2.5% of submissions) !
 - *2023.02*: 🎉🎉 One paper is accepted by CVPR 2023!
 - *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring algorithm-/data-efficient AI. 🔬
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
