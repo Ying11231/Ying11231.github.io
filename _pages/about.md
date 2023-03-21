@@ -25,6 +25,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🔥 News
+- *2023.03*: 🎉🎉 Our paper is selected as a CVPR highlight (top 10% of accepted papers)!
 - *2023.02*: 🎉🎉 One paper is accepted by CVPR 2023!
 - *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring algorithm-/data-efficient AI. 🔬
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
@@ -43,7 +44,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 **Donghao Zhou**, Chunbin Gu, Junde Xu, Furui Liu, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
-**<font color=red>CVPR 2023</font>** | [[Paper]](https://arxiv.org/pdf/2212.10066.pdf) [[Code]](https://github.com/Correr-Zhou/RepMode)
+**<font color=red>CVPR 2023 Highlight</font>** | [[Paper]](https://arxiv.org/pdf/2212.10066.pdf) [[Code]](https://github.com/Correr-Zhou/RepMode)
 - We model fluorescence staining as a 3D dense prediction task termed subcellular structure prediction (SSP).
 - We propose Re-parameterizing Mixture-of-Diverse-Experts (RepMode), a network that dynamically organizes its parameters with task-aware priors to handle specified single-label prediction tasks of SSP.
 - Experiments show that RepMode can attain SOTA overall performance on twelve prediction tasks and achieve effiecent task-incremental learning.
