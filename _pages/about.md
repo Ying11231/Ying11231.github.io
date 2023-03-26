@@ -21,11 +21,11 @@ I am currently a second-year M.Sc. student at [University of Chinese Academy of 
 
 My research interest mainly includes machine learning and computer vision. Recently, I focus on Data-Efficient AI (learning with limited and imperfect data) and its applications for various fields, aiming to promote the efficiency and flexibility of AI algorithms in real world.
 
-> 📢📢📢 <font color=red>I am looking for a Ph.D. positions (2024 fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn). 😊
+> 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn). 😊
 
 
 # 🔥 News
-- *2023.03*: 🎉🎉 Our paper is selected as a CVPR Highlight (10% of accepted papers, 2.5% of submissions)!
+- *2023.03*: 🎉🎉 Our paper is selected as a CVPR Highlight (Top 2.5% of 9155 submissions)!
 - *2023.02*: 🎉🎉 One paper is accepted by CVPR 2023!
 - *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring efficient model architectures. 🔬
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
@@ -70,10 +70,10 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🏅 Honors and Awards
-- *2021.06* &ensp; Outstanding Graduate (top 2.5%)
+- *2021.06* &ensp; Outstanding Graduate (Top 2.5%)
 - *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize
-- *2021.04* &ensp; Top 10 Campus Innovation People (bonus: ¥10,000)
-- *2020.09* &ensp; China National Scholarship (top 0.3%)
+- *2021.04* &ensp; Top 10 Campus Innovation People (Bonus: ¥10,000)
+- *2020.09* &ensp; China National Scholarship (Top 0.3%)
 - *2018 - 2020* &ensp; First-Class Excellence Scholarship (three times)
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (as the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
