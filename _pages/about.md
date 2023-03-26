@@ -19,15 +19,15 @@ redirect_from:
 
 I am currently a second-year M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
-My research interest mainly includes machine learning and computer vision. Recently, I focus on weakly supervised learning (learning with limited and imperfect data) and its applications for various fields, aiming to promote the efficiency and flexibility of AI algorithms in real world.
+My research interest mainly includes machine learning and computer vision. Recently, I focus on Data-Efficient AI (learning with limited and imperfect data) and its applications for various fields, aiming to promote the efficiency and flexibility of AI algorithms in real world.
 
-> 📢📢📢 <font color=red>I am looking for research internships and Ph.D. positions.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn). 😊
+> 📢📢📢 <font color=red>I am looking for a Ph.D. positions (2024 fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn). 😊
 
 
 # 🔥 News
 - *2023.03*: 🎉🎉 Our paper is selected as a CVPR Highlight (10% of accepted papers, 2.5% of submissions)!
 - *2023.02*: 🎉🎉 One paper is accepted by CVPR 2023!
-- *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring algorithm-/data-efficient AI. 🔬
+- *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring efficient model architectures. 🔬
 - *2022.07*: 🎉🎉 One paper is accepted by ECCV 2022!
 - *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
 - *2021.03*: I join CV2R-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
@@ -69,7 +69,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 
 
-
 # 🏅 Honors and Awards
 - *2021.06* &ensp; Outstanding Graduate (top 2.5%)
 - *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize
@@ -81,8 +80,9 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 💬 Invited Talks
+- *2023.03* &ensp; Subcellular Structure Prediction, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
 - *2022.12* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
-- *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
+<!-- - *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) -->
 <!-- - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html) -->
 
 
