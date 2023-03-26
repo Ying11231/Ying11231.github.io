@@ -44,7 +44,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 **Donghao Zhou**, Chunbin Gu, Junde Xu, Furui Liu, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
-**<font color=red>CVPR 2023 (Highlight, Top 2.5% of 9155 submissions)</font>** | [[Paper]](https://arxiv.org/pdf/2212.10066.pdf) [[Code]](https://github.com/Correr-Zhou/RepMode)
+**<font color=red>CVPR 2023 (Highlight)</font>** | [[Paper]](https://arxiv.org/pdf/2212.10066.pdf) [[Code]](https://github.com/Correr-Zhou/RepMode)
 - We model fluorescence staining as a 3D dense prediction task termed subcellular structure prediction (SSP).
 - We propose Re-parameterizing Mixture-of-Diverse-Experts (RepMode), a network that dynamically organizes its parameters with task-aware priors to handle specified single-label prediction tasks of SSP.
 - Experiments show that RepMode can attain SOTA overall performance on twelve prediction tasks and achieve effiecent task-incremental learning.
