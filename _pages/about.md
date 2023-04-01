@@ -25,6 +25,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🔥 News
+- *2023.04*: I join [Tencent YouTu Lab](https://en.zhejianglab.com/) as a research intern. 🔬
 - *2023.03*: 🎉🎉 Our paper is selected as a CVPR Highlight (Top 2.5% of 9155 submissions)!
 - *2023.02*: 🎉🎉 One paper is accepted by CVPR 2023!
 - *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern, and will delicate myself to exploring efficient model architectures. 🔬
@@ -87,6 +88,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 👨‍💻 Internships
+- *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://en.zhejianglab.com/), Shenzhen, China
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
