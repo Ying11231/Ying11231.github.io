@@ -25,16 +25,16 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 
 # 🔥 News
-- *2023.04*: 🔬 I join [Tencent YouTu Lab](https://open.youtu.qq.com/) as a research intern.
-- *2023.03*: 🎉 Our paper is selected as a CVPR Highlight (Top 2.5% of 9155 submissions)!
-- *2023.02*: 🎉 One first-author paper is accepted by CVPR 2023!
-- *2022.07*: 🔬 I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern.
-- *2022.07*: 🎉 One first-author paper is accepted by ECCV 2022!
-- *2021.07*: 👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
-- *2021.03*: 🔬 I join CV2R-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
-- *2020.10*: 🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS!
-- *2020.09*: 🏆 I am awarded a china national scholarship!
-- *2019.05*: 🏅 We win the second prize of [CN-ROBOCON](https://en.wikipedia.org/wiki/ABU_Robocon) after one-year's preparation. Thanks all my teammates! 🤖️
+- *2023.04*: 🔬🔬 I join [Tencent YouTu Lab](https://open.youtu.qq.com/) as a research intern.
+- *2023.03*: 🎉🎉 Our paper is selected as a CVPR Highlight (Top 2.5% of 9155 submissions)!
+- *2023.02*: 🎉🎉 One first-author paper is accepted by CVPR 2023!
+- *2022.07*: 🔬🔬 I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern.
+- *2022.07*: 🎉🎉 One first-author paper is accepted by ECCV 2022!
+- *2021.07*: 👨‍🎓👨‍🎓 I get my bachelor’s degree as an outstanding graduate!
+- *2021.03*: 🔬🔬 I join CV2R-Lab @ SIAT as a research assistant and will spend my last undergraduate time here.
+- *2020.10*: 🎉🎉 I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS!
+- *2020.09*: 🏆🏆 I am awarded a china national scholarship!
+- *2019.05*: 🥈🥈 We win the second prize of [CN-ROBOCON](https://en.wikipedia.org/wiki/ABU_Robocon) after one-year's preparation. Thanks all my teammates! 🤖️
 
 
 # 📝 Selected Publications
