@@ -82,7 +82,6 @@ Research Intern
 *2023.04 - now*
 
 </div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/logo_ZJLab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,7 +91,6 @@ Research Intern
 *2022.07 - 2023.01*
 
 </div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -101,7 +99,6 @@ Research Intern
 Research Assistant
 *2021.03 - 2021.08*
 
-</div>
 </div>
 
 # 🏅 Honors and Awards
