@@ -76,12 +76,12 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
 
 # 🏅 Honors and Awards
-- *2021 - 2024* &ensp; University of Chinese Academy of Sciences Scholarship (¥10,000 per annum)
+- *2021 - 2024* &ensp; University of Chinese Academy of Sciences Scholarships (¥10,000 per annum)
 - *2021.06* &ensp; Outstanding Graduate (Top 2.5%)
 - *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize
 - *2021.04* &ensp; Top 10 Campus Innovation People (Bonus: ¥10,000)
 - *2020.09* &ensp; China National Scholarship (Top 0.3%)
-- *2018 - 2020* &ensp; First-Class Excellence Scholarship (Three times)
+- *2018 - 2020* &ensp; First-Class Excellent Student Scholarship (Three times)
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (As the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
 
