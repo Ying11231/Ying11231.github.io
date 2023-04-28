@@ -70,10 +70,17 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 
 # 👨‍💻 Research Experience
-- *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
+<!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
-- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
+- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China -->
+<div class='paper-box'><div class='paper-box-image'><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+</div>
+</div>
 
 # 🏅 Honors and Awards
 - *2021 - 2024* &ensp; University of Chinese Academy of Sciences Scholarships (¥10,000 per annum)
