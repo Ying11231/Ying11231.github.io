@@ -78,7 +78,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box-text' markdown="1">
 
 **Tencent YouTu Lab** | Shenzhen, China
-
 **Research Intern**
 
 *2023.04 - now*
@@ -90,7 +89,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box-text' markdown="1">
 
 **Zhejiang Lab** | Hangzhou, China
-
 **Research Intern** @ Artificial Intelligence Research Institute
 
 *2022.07 - 2023.01*
@@ -102,7 +100,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box-text' markdown="1">
 
 **Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences** | Shenzhen, China
-
 **Research Assistant** @ CV2R-Lab
 
 *2021.03 - 2021.08*
