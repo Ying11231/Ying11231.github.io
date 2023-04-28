@@ -77,9 +77,9 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Tencent YouTu Lab**, Shenzhen, China
+[Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
 
-**Research Intern**
+**Research Intern** @ FuXi Research Center
 
 *2023.04 - now*
 
@@ -89,9 +89,9 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/logo_ZJLab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhejiang Lab**, Hangzhou, China
+[Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 
-**Research Intern** @ Artificial Intelligence Research Institute
+**Research Intern**
 
 *2022.07 - 2023.01*
 
@@ -101,7 +101,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**SIAT, CAS**, Shenzhen, China
+[SIAT](https://english.siat.ac.cn/), Shenzhen, China
 
 **Research Assistant** @ CV2R-Lab
 
