@@ -31,7 +31,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern! 🔬
 - *2022.07*: One first-author paper is accepted by ECCV 2022! 🎉
 - *2021.07*: I get my bachelor’s degree as an outstanding graduate! 👨‍🎓
-- *2021.03*: I join [CV2R-Lab @ SIAT](https://english.siat.ac.cn/) as a research assistant and will spend my last undergraduate time here! 🔬
+- *2021.03*: I join [CV2R-Lab @ SIAT, CAS](https://english.siat.ac.cn/) as a research assistant and will spend my last undergraduate time here! 🔬
 - *2020.10*: I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS! 👨‍🎓
 - *2020.09*: I am awarded a china national scholarship! 🏆
 - *2019.05*: We win the second prize of [CN-ROBOCON](https://en.wikipedia.org/wiki/ABU_Robocon) after one-year's preparation. Thanks all my teammates! 🥈
@@ -101,7 +101,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SIAT](https://english.siat.ac.cn/), Shenzhen, China
+[SIAT, CAS](https://english.siat.ac.cn/), Shenzhen, China
 
 **Research Assistant** @ CV2R-Lab
 
