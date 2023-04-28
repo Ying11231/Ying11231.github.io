@@ -82,6 +82,22 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/logo_ZJLab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+</div>
+</div>
+
 # 🏅 Honors and Awards
 - *2021 - 2024* &ensp; University of Chinese Academy of Sciences Scholarships (¥10,000 per annum)
 - *2021.06* &ensp; Outstanding Graduate (Top 2.5%)
