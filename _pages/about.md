@@ -69,6 +69,11 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 </div>
 
+# 👨‍💻 Internships
+- *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
+- *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
+- *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
+- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
 
 # 🏅 Honors and Awards
 - *2021.06* &ensp; Outstanding Graduate (Top 2.5%)
@@ -79,16 +84,8 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (As the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
 
-
 # 💬 Invited Talks
 - *2023.03* &ensp; Subcellular Structure Prediction, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
 - *2022.12* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
-<!-- - *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) -->
-<!-- - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html) -->
-
-
-# 👨‍💻 Internships
-- *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
-- *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
-- *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
-- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
+- *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
+- *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html)
