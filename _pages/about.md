@@ -74,7 +74,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China -->
-<div class='paper-box'><div class='paper-box-image'><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Tencent YouTu Lab**, Shenzhen, China
@@ -84,8 +84,9 @@ Research Intern
 *2023.04 - now*
 
 </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/logo_ZJLab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/logo_ZJLab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Zhejiang Lab**, Hangzhou, China
@@ -95,8 +96,9 @@ Research Intern
 *2022.07 - 2023.01*
 
 </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CV2RLab @ SIAT**, Shenzhen, China
@@ -105,6 +107,7 @@ Research Assistant
 
 *2021.03 - 2021.08*
 
+</div>
 </div>
 
 # 🏅 Honors and Awards
