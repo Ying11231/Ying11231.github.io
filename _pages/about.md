@@ -79,11 +79,11 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tencent TouTu Lab</div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
-
-**Research Intern** @ FuXi Research Center
-
-*2023.04 - now*
+> [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
+>
+> **Research Intern** @ FuXi Research Center
+>
+> *2023.04 - now*
 
 </div>
 </div>
@@ -93,11 +93,11 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Zhejiang Lab</div><img src='images/logo_ZJLab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
-
-**Research Intern** @ Research Institute of Intelligent Computing
-
-*2022.07 - 2023.01*
+> [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
+>
+> **Research Intern** @ Research Institute of Intelligent Computing
+>
+> *2022.07 - 2023.01*
 
 </div>
 </div>
@@ -107,13 +107,11 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIAT, CAS</div><img src='images/logo_SIAT_CAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SIAT, CAS](https://english.siat.ac.cn/), Shenzhen, China
-
-**Research Assistant** @ CV2R-Lab
-
-*2021.03 - 2021.08*
-
-Topic: Robust Multi-Label Learning
+> [SIAT, CAS](https://english.siat.ac.cn/), Shenzhen, China
+>
+> **Research Assistant** @ CV2R-Lab
+>
+> *2021.03 - 2021.08*
 
 </div>
 </div>
