@@ -117,7 +117,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 
 # 🏅 Honors and Awards
-- *2021 - 2023* &ensp; University of Chinese Academy of Sciences Scholarships (10,000 CNY per annum)
+- *2021 - 2023* &ensp; University of Chinese Academy of Sciences Fellowships (Full tuition waiver and extra 8,000 CNY per annum)
 - *2021.06* &ensp; Outstanding Graduate (Top 2.5%)
 - *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize
 - *2021.04* &ensp; Top 10 Campus Innovation People (Bonus: 10,000 CNY)
