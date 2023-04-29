@@ -95,7 +95,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 
-**Research Intern** @ Artificial Intelligence Research Institute
+**Research Intern** @ Research Institute of Intelligent Computing
 
 *2022.07 - 2023.01*
 
