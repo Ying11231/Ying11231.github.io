@@ -113,6 +113,8 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 *2021.03 - 2021.08*
 
+Topic: Robust Multi-Label Learning
+
 </div>
 </div>
 
