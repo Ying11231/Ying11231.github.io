@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Research Experience"
-    url: "/#-research-experience"
-    
   - title: "Publications"
     url: "/#-selected-publications"
+
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
   - title: "Honors & Awards"
     url: "/#-honors-and-awards"
