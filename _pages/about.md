@@ -52,8 +52,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 <!-- -  to handle specified single-label prediction tasks of SSP. -->
 - Experiments show that RepMode can attain SOTA overall performance on twelve prediction tasks and achieve effiecent task-incremental learning.
 
-## 🔎 Other
-
 </div>
 </div>
 
@@ -74,6 +72,10 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 </div>
 </div>
+
+
+## 🔎 Other
+
 
 # 👨‍💻 Research Experience
 <!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
