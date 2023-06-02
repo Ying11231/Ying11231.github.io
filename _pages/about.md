@@ -37,7 +37,8 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2019.05*: We win the second prize of [CN-ROBOCON](https://en.wikipedia.org/wiki/ABU_Robocon) after one-year's preparation. Thanks all my teammates! 🥈
 
 
-# 📝 Selected Publications
+# 📝 Publications
+## 📌 Pinned
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023 (Highlight)</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +51,8 @@ My research interest mainly includes machine learning and computer vision. Recen
 - We propose Re-parameterizing Mixture-of-Diverse-Experts (RepMode), a network that dynamically organizes its parameters with task-aware priors.
 <!-- -  to handle specified single-label prediction tasks of SSP. -->
 - Experiments show that RepMode can attain SOTA overall performance on twelve prediction tasks and achieve effiecent task-incremental learning.
+
+## 🔎 Other
 
 </div>
 </div>
