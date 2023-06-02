@@ -37,8 +37,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2019.05*: We win the second prize of [CN-ROBOCON](https://en.wikipedia.org/wiki/ABU_Robocon) after one-year's preparation. Thanks all my teammates! 🥈
 
 
-# 📝 Publications
-## 📌 Pinned
+# 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023 (Highlight)</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,10 +71,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 </div>
 </div>
-
-
-## 🔎 Other
-
 
 # 👨‍💻 Research Experience
 <!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
