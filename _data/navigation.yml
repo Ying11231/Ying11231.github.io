@@ -7,13 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#-publications"
 
   - title: "Experience"
     url: "/#-experience"
 
-  - title: "Honors & Awards"
-    url: "/#-honors-and-awards"
+  - title: "Selected Awards"
+    url: "/#-selected--awards"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
