@@ -86,6 +86,34 @@ Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Gua
 </div>
 </div>
 
+---
+
+<div class='paper-box2'><div class='paper-box2-image'><div><img src='images/acktheunknown.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box2-text' markdown="1">
+
+[Deep Learning in Cell Image Analysis](https://arxiv.org/pdf/2303.12736.pdf)
+
+Junde Xu*, Donghao Zhou*, Danruo Deng, Jingpeng Li, Cheng Chen, Xiangyun Liao, Guangyong Chen, Pheng-Ann Heng
+
+**Intelligent Computing** | [[Paper]](https://downloads.spj.sciencemag.org/icomputing/2022/9861263.pdf)
+
+</div>
+</div>
+
+---
+
+<div class='paper-box2'><div class='paper-box2-image'><div><img src='images/acktheunknown.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box2-text' markdown="1">
+
+[IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://arxiv.org/pdf/2303.12736.pdf)
+
+Jiancheng Huang, Donghao Zhou, Shifeng Huang
+
+**Submttied to IEEE Transactions on Information Forensics and Security (TIFS)**
+
+</div>
+</div>
+
 # 👨‍💻 Experience
 <!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
