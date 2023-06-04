@@ -118,17 +118,17 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 
 # 🏅 Honors and Awards
-- *2021 - 2023* &ensp; University of Chinese Academy of Sciences Fellowships (Full tuition waiver & extra 8,000 CNY p.a.)
+- *2021 - 2023* &ensp; UCAS Postgraduate Fellowship (Full Tuition Waiver & 8,000 CNY p.a.)
 - *2021.06* &ensp; Outstanding Graduate (Top 2.5%)
 - *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize
-- *2021.04* &ensp; Top 10 Campus Innovation People (Bonus: 10,000 CNY)
+- *2021.04* &ensp; Top 10 Student Innovation Figure (Bonus: 10,000 CNY)
 - *2020.09* &ensp; China National Scholarship (Top 0.3%)
-- *2018 - 2020* &ensp; First-Class Excellent Student Scholarships (Three times)
+- *2018 - 2020* &ensp; First-Class Excellent Student Scholarships (Three Times)
 - *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (As the captain of a team of 30+ undergradutes)
 - *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
 
 # 💬 Invited Talks
 - *2023.03* &ensp; Subcellular Structure Prediction, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
 - *2022.12* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/)
-- *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/)
+<!-- - *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) -->
 - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html)
