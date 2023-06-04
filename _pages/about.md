@@ -72,12 +72,26 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 </div>
 
+---
+
+<div class='paper-box2'><div class='paper-box2-image'><div><img src='images/acktheunknown.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box2-text' markdown="1">
+
+[DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/pdf/2303.12736.pdf)
+
+Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng
+
+**arXiv (Under Review)** | [[Paper]](https://arxiv.org/pdf/2303.12736.pdf)
+
+</div>
+</div>
+
 # 👨‍💻 Experience
 <!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China -->
-<div class='exp-box'>
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 <div class='exp-box-text' markdown="1">
 
 [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
@@ -87,7 +101,6 @@ My research interest mainly includes machine learning and computer vision. Recen
 *2023.04 - now*
 
 </div>
-<div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 </div>
 
 ---
