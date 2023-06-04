@@ -74,9 +74,9 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 ---
 
-- [DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/pdf/2303.12736.pdf), Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng, **arXiv (Under Review)**  | [[Paper]](https://arxiv.org/pdf/2303.12736.pdf)
+- [DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/pdf/2303.12736.pdf), Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng, **<font color=red>arXiv (Under Review)</font>**  | [[Paper]](https://arxiv.org/pdf/2303.12736.pdf)
 - [Deep Learning in Cell Image Analysis](https://downloads.spj.sciencemag.org/icomputing/2022/9861263.pdf), Junde Xu*, Donghao Zhou*, Danruo Deng, Jingpeng Li, Cheng Chen, Xiangyun Liao, Guangyong Chen, Pheng-Ann Heng, **Intelligent Computing** | [[Paper]](https://downloads.spj.sciencemag.org/icomputing/2022/9861263.pdf)
-- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/), Jiancheng Huang, Donghao Zhou, Shifeng Huang, **Submttied to IEEE Transactions on Information Forensics and Security (TIFS)**
+- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/), Jiancheng Huang, **Donghao Zhou**, Shifeng Huang, **Submttied to IEEE Transactions on Information Forensics and Security (TIFS)**
 
 
 # 👨‍💻 Experience
