@@ -72,7 +72,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 </div>
 
-# 👨‍💻 Research Experience
+# 👨‍💻 Experience
 <!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
