@@ -77,7 +77,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
 - *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China -->
-<div class='exp-box'><div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
+<div class='exp-box'>
 <div class='exp-box-text' markdown="1">
 
 [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
@@ -87,6 +87,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 *2023.04 - now*
 
 </div>
+<div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 </div>
 
 ---
