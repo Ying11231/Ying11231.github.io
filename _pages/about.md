@@ -81,7 +81,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng
 
-**arXiv (Under Review)**
+**arXiv (Under Review)** | [[Paper]](https://arxiv.org/pdf/2303.12736.pdf)
 
 </div>
 </div>
