@@ -75,11 +75,10 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 ## 🔎 Other
 
-  [DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/pdf/2303.12736.pdf)
-  Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng
+- [DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/pdf/2303.12736.pdf),
+  Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng,
   arXiv Preprint, 2023 (Under Review)
-  ---
-  [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/),
+- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/),
   Jiancheng Huang, **Donghao Zhou**, Shifeng Huang,
   Submitted to IEEE Transactions on Information Forensics and Security (TIFS), 2022 (Major Revision)
 <!-- - [Deep Learning in Cell Image Analysis](https://downloads.spj.sciencemag.org/icomputing/2022/9861263.pdf), Junde Xu, **Donghao Zhou (Co-first Author)**, Danruo Deng, Jingpeng Li, Cheng Chen, Xiangyun Liao, Guangyong Chen, Pheng-Ann Heng, Intelligent Computing, 2022 -->
