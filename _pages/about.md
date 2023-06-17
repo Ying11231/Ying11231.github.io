@@ -39,8 +39,8 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 # 📝 Publications
 ## 📌 Pinned
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023 (Highlight)</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">CVPR 2023 (Highlight)</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-top-text' markdown="1">
 
 [RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_RepMode_Learning_to_Re-Parameterize_Diverse_Experts_for_Subcellular_Structure_Prediction_CVPR_2023_paper.html)
 
