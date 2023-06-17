@@ -42,7 +42,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023 (Highlight)</div><img src='images/repmode.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction](https://arxiv.org/pdf/2212.10066.pdf)
+[RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_RepMode_Learning_to_Re-Parameterize_Diverse_Experts_for_Subcellular_Structure_Prediction_CVPR_2023_paper.html)
 
 **Donghao Zhou**, Chunbin Gu, Junde Xu, Furui Liu, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
@@ -60,7 +60,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/acktheunknown.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Acknowledging the Unknown for Multi-Label Learning with Single Positive Labels](https://arxiv.org/pdf/2203.16219.pdf)
+[Acknowledging the Unknown for Multi-Label Learning with Single Positive Labels](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_25)
 
 **Donghao Zhou**, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng
 
@@ -75,12 +75,12 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 ## 🔎 Other
 
-- [DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/pdf/2303.12736.pdf),
-  Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng,
+- [DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/abs/2303.12736)
+  Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng
   arXiv Preprint, 2023 (Under Review)
-- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/),
-  Jiancheng Huang, **Donghao Zhou**, Shifeng Huang,
-  Submitted to IEEE Transactions on Information Forensics and Security (TIFS), 2022 (Major Revision)
+- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/)
+  Jiancheng Huang, **Donghao Zhou**, Shifeng Huang
+  IEEE Transactions on Information Forensics and Security (TIFS), 2022 (Major Revision)
 <!-- - [Deep Learning in Cell Image Analysis](https://downloads.spj.sciencemag.org/icomputing/2022/9861263.pdf), Junde Xu, **Donghao Zhou (Co-first Author)**, Danruo Deng, Jingpeng Li, Cheng Chen, Xiangyun Liao, Guangyong Chen, Pheng-Ann Heng, Intelligent Computing, 2022 -->
 
 
@@ -143,5 +143,5 @@ My research interest mainly includes machine learning and computer vision. Recen
 - *2023.06* &ensp; Subcellular Structure Prediction: Revealing Fluorescent Images with Deep Learning, Topic Talk, held by [TechBeat](https://www.techbeat.net/) \| [[News]](https://mp.weixin.qq.com/s/uxUsJiS1m0VwnEeBb3A6cg) [[Video]](https://www.techbeat.net/talk-info?id=783)
 - *2023.03* &ensp; Subcellular Structure Prediction, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) \| [[Poster]](images\talk_zjlab_repmode.png)
 - *2022.12* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/) \| [[News]](https://mp.weixin.qq.com/s/l0gM0sUOR5H0DSP81_GKCQ)
-- *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) [[Poster]](images\talk_zjlab_acktheunknown.png)
+- *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) \| [[Poster]](images\talk_zjlab_acktheunknown.png)
 <!-- - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html) -->
