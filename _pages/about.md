@@ -83,7 +83,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 - [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/)
 
-  Jiancheng Huang, **Donghao Zhou**, Shifeng Huang
+  Jiancheng Huang\*, **Donghao Zhou\***, Shifeng Huang (\* indicates equal contribution)
 
   IEEE Transactions on Information Forensics and Security (TIFS) 2022 (Major Revision)
 <!-- - [Deep Learning in Cell Image Analysis](https://downloads.spj.sciencemag.org/icomputing/2022/9861263.pdf), Junde Xu, **Donghao Zhou (Co-first Author)**, Danruo Deng, Jingpeng Li, Cheng Chen, Xiangyun Liao, Guangyong Chen, Pheng-Ann Heng, Intelligent Computing, 2022 -->
