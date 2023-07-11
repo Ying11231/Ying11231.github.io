@@ -26,7 +26,7 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 # 🔥 News
 - *2023.07*: One paper is accepted by ACM MM Grand Challenge 2023! 🎉
-- *2023.07*: We win the second prize in MER-SEMI, Multimodal Emotion Recognition, ACM MM 2023 Grand Challenge! 🎉
+- *2023.07*: We win the second prize in MER-SEMI, Multimodal Emotion Recognition, ACM MM 2023 Grand Challenge! 🥈
 - *2023.05*: I was awarded a Dahua outstanding scholarship (4000 CNY)! 🏆
 - *2023.04*: One first-author paper is accepted by IEEE International Conference on Real-time Computing and Robotics 2023! 🎉
 - *2023.02*: I join [SIAT, CAS](https://english.siat.ac.cn/) as a visiting student to doing research! 🔬
@@ -69,27 +69,11 @@ My research interest mainly includes machine learning and computer vision. Recen
 </div>
 </div>
 
-## 🔎 Other
-
-- [DPPMask: Masked Image Modeling with Determinantal Point Processes](https://arxiv.org/abs/2303.12736)
-
-  Junde Xu, Zikai Lin, **Donghao Zhou**, Yaodong Yang, Xiangyun Liao, Bian Wu, Guangyong Chen, Pheng-Ann Heng
-
-  arXiv Preprint 2023 (Under Review) \| [[Paper]](https://arxiv.org/pdf/2303.12736.pdf)
-
-- [IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images](https://correr-zhou.github.io/)
-
-  Jiancheng Huang\*, **Donghao Zhou\***, Shifeng Huang (\* indicates equal contribution)
-
-  IEEE Transactions on Information Forensics and Security (TIFS) 2022 (Major Revision)
-<!-- - [Deep Learning in Cell Image Analysis](https://downloads.spj.sciencemag.org/icomputing/2022/9861263.pdf), Junde Xu, **Donghao Zhou (Co-first Author)**, Danruo Deng, Jingpeng Li, Cheng Chen, Xiangyun Liao, Guangyong Chen, Pheng-Ann Heng, Intelligent Computing, 2022 -->
-
-
-# 👨‍💻 Experience
-<!-- - *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
+<!-- # 👨‍💻 Experience
+- *2023.04 - now* &ensp; Research Intern, [Tencent YouTu Lab](https://open.youtu.qq.com/), Shenzhen, China
 - *2022.07 - 2023.01* &ensp; Research Intern, [Zhejiang Lab](https://en.zhejianglab.com/), Hangzhou, China
 - *2021.03 - 2021.08* &ensp; Research Assistant, [SIAT](https://english.siat.ac.cn/), Shenzhen, China
-- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China -->
+- *2019.08 - 2020.01* &ensp; Entrepreneurial Intern, [XbotPark](http://www.xbotpark.com/?lang=en), Dongguan, China
 <div class='exp-box'> <div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 <div class='exp-box-text' markdown="1">
 
@@ -129,20 +113,9 @@ My research interest mainly includes machine learning and computer vision. Recen
 
 </div>
 </div>
-
+   -->
 # 🏅 Selected Awards
-- *2021 - 2023* &ensp; UCAS Postgraduate Fellowship (Full Tuition Waiver & 8,000 CNY p.a.)
-- *2021.06* &ensp; Outstanding Graduate (Top 2.5%)
-- *2021.06* &ensp; Excellent Graduation Thesis & Graduation Thesis Innovation Prize
-- *2021.04* &ensp; Top 10 Student Innovation Figure (Bonus: 10,000 CNY)
-- *2020.09* &ensp; China National Scholarship (Top 0.3%)
-- *2018 - 2020* &ensp; First-Class Excellent Student Scholarships (Three Times)
-- *2019.05* &ensp; [Asia-Pacific Robot Contest (ROBOCON)](https://en.wikipedia.org/wiki/ABU_Robocon), China Regional Competition, Second Prize (Leading a team of 30+ undergradutes)
-- *2018.09* &ensp; Guangdong University Electronic Design Competition, Second Prize
-
-# 💬 Invited Talks
-- *2023.06* &ensp; Subcellular Structure Prediction: Revealing Fluorescent Images with Deep Learning, Topic Talk, held by [TechBeat](https://www.techbeat.net/) \| [[News]](https://mp.weixin.qq.com/s/uxUsJiS1m0VwnEeBb3A6cg) [[Video]](https://www.techbeat.net/talk-info?id=783)
-- *2023.03* &ensp; Subcellular Structure Prediction from Multiple Partially Labeled Datasets, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) \| [[Poster]](images\talk_zjlab_repmode.png)
-- *2022.12* &ensp; Single Positive Multi-Label Learning, Youth Ph.D. Talk, held by [ITIC](https://www.itic-sci.com/) and [AI TIME](http://www.aitime.cn/) \| [[News]](https://mp.weixin.qq.com/s/l0gM0sUOR5H0DSP81_GKCQ)
-- *2022.12* &ensp; Learning a Multi-Label Classifier from a Single-Label Dataset, Internal Youth Forum, held by [Zhejiang Lab](https://en.zhejianglab.com/) \| [[Poster]](images\talk_zjlab_acktheunknown.png)
-<!-- - *2022.08* &ensp; Accepted Paper Sharing, ECCV 2022 China Pre-conference, held by [CSIG](http://en.csig.org.cn/) and [BAAI](https://www.baai.ac.cn/english.html) -->
+- *2020* &ensp; Second Prize of SZTU Freshman Scholarship (6000 CNY)
+- *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%), 2022
+- *2023* &ensp; Dahua Outstanding Scholarship (4000 CNY)
+- *2023* &ensp; OpenMMLab MMSTAR I
