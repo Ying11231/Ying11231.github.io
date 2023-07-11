@@ -6,17 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Donghao Zhou"
-description              : "M.Sc. student @ UCAS. <br/>
-                            Doing research @ SIAT, CAS. <br/>
-                            Intern @ Tencent YouTu Lab.  <br/>
-                            Focusing on ML and CV, especially Data-Efficient AI.
+title                    : "Yuxiang Lin"
+description              : "M.Sc. student @ SZTU. <br/>
+                            Visiting student @ SIAT, CAS. <br/>
+                            Focusing on ML and CV, multimodal emotion recognition.
                             "
-repository               : "Correr-Zhou/correr-zhou.github.io"
+repository               : "Lum1104/Lum1104.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  G-KK5SDTHH09 # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -25,14 +24,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Donghao Zhou <br/> 周冬豪"
+  name             : "Yuxiang Lin <br/> 林钰翔"
   avatar           : "images/profile.jpg"
-  bio              : "UCAS & SIAT, CAS"
+  bio              : "SZTU"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=Td_KJgIAAAAJ"
-  email            : "dh.zhou@siat.ac.cn"
+  googlescholar    : 
+  email            : "lin.yuxiang.contact@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -41,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Correr-Zhou # e.g., "github username"
+  github           : Lum1104 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
