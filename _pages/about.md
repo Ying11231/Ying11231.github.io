@@ -17,24 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) <img src='images/logo_UCAS.png' style='width: 1.1em;'> ([learn more about UCAS](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences)), and doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'>, [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
+I am currently a fourth-year undergraduate student at [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'>, and previously as a visiting student doing my research at [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/) <img src='images/logo_SIAT.webp' style='width: 1.1em;'>, [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 
-My research interest mainly includes machine learning and computer vision. Recently, I focus on Data-Efficient AI (learning with limited and imperfect data) and its applications for various fields, aiming to promote the efficiency and flexibility of AI algorithms in real world.
+My research interest mainly includes machine learning and computer vision. Recently, I focus on Emotion Recognition using multimodal features and its applications for various fields, aiming to understand human feelings.
 
-> 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:dh.zhou@siat.ac.cn). 😊
+> 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:lin.yuxiang.contact@gmail.com). 😊
 
 
 # 🔥 News
-- *2023.04*: I join [Tencent YouTu Lab](https://open.youtu.qq.com/) as a research intern! 🔬
-- *2023.03*: Our paper is selected as a CVPR Highlight (Top 2.5% of 9155 submissions)! 🎉
-- *2023.02*: One first-author paper is accepted by CVPR 2023! 🎉
-- *2022.07*: I join [Zhejiang Lab](https://en.zhejianglab.com/) as a research intern! 🔬
-- *2022.07*: One first-author paper is accepted by ECCV 2022! 🎉
-- *2021.07*: I get my bachelor’s degree as an outstanding graduate! 👨‍🎓
-- *2021.03*: I join [SIAT, CAS](https://english.siat.ac.cn/) as a research assistant and will spend my last undergraduate time here! 🔬
-- *2020.10*: I acquire a qualification of postgraduate recommendation, and decide to pursue my master’s degree in UCAS! 👨‍🎓
-- *2020.09*: I am awarded a china national scholarship! 🏆
-- *2019.05*: We win the second prize of [CN-ROBOCON](https://en.wikipedia.org/wiki/ABU_Robocon) after one-year's preparation. Thanks all my teammates! 🥈
+- *2023.07*: One paper is accepted by ACM MM Grand Challenge 2023! 🎉
+- *2023.07*: We win the second prize in MER-SEMI, Multimodal Emotion Recognition, ACM MM 2023 Grand Challenge! 🎉
+- *2023.05*: I was awarded a Dahua outstanding scholarship (4000 CNY)! 🏆
+- *2023.04*: One first-author paper is accepted by IEEE International Conference on Real-time Computing and Robotics 2023! 🎉
+- *2023.02*: I join [SIAT, CAS](https://english.siat.ac.cn/) as a visiting student to doing research! 🔬
+- *2022.05*: We win the second prize in China Undergraduate Mathematical Contest after one year's preparation (top 2%). Thanks all my teammates! 🥈
 
 
 # 📝 Publications
