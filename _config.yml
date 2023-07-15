@@ -6,12 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuxiang Lin"
-description              : "Undergraduate @ SZTU. <br/>
-                            Visiting student @ SIAT. <br/>
-                            Focusing on CV, multimodal emotion recognition.
+title                    : "Ying Chen"
+description              : "Undergraduate @ NJUCM. <br/>
+                            Loving KPOP
                             "
-repository               : "Lum1104/Lum1104.github.io"
+repository               : "Ying11231/Ying11231.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxiang Lin <br/> 林钰翔"
+  name             : "Ying Chen <br/> 陈颖"
   avatar           : "images/profile.jpg"
-  bio              : "SZTU"
+  bio              : "NJUCM"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "lin.yuxiang.contact@gmail.com"
+  email            : "cherryingi1231@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -40,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Lum1104 # e.g., "github username"
+  github           : Ying11231 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
